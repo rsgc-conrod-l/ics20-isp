@@ -2,17 +2,15 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "Unknown.png",
+      "filename" : "Cartoon_cloud.svg.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "Unknown-1.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "Unknown-2.png",
       "scale" : "3x"
     }
   ],
